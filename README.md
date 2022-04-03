@@ -1,2 +1,4 @@
 # ws-premier-league
-Getting Premier League table from Skysports Website.
+
+- Read Premier League table from https://www.skysports.com/premier-league-table using Pandas.
+- You can schedule script running to get recent ranking.
